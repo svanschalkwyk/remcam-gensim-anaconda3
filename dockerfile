@@ -36,3 +36,4 @@ RUN wget -nv -O /tmp/gensim-0.12.3.tar.gz https://pypi.python.org/packages/sourc
 	&&	python3 /home/gensim_user/gensim/setup.py install
 
 
+
